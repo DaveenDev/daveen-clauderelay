@@ -1,0 +1,14 @@
+{
+  "name": "daveen-claudekit",
+  "owner": { "name": "Daveen" },
+  "metadata": { "description": "Daveen's Claude Code tools", "version": "0.1.0" },
+  "plugins": [
+    {
+      "name": "daveen-clauderelay",
+      "source": "./plugins/daveen-clauderelay",
+      "description": "Hand unfinished development work between Claude accounts and sessions: tasks, checkpoints, Git-verified resume. Works with claude-mem and Argent, requires neither.",
+      "version": "0.1.0",
+      "category": "productivity"
+    }
+  ]
+}

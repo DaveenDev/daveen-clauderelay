@@ -1,0 +1,7 @@
+{
+  "name": "daveen-clauderelay",
+  "version": "0.1.0",
+  "description": "Hand unfinished development work between Claude accounts and sessions: tasks, checkpoints, Git-verified resume. Works with claude-mem and Argent Safehouse, requires neither.",
+  "author": { "name": "Daveen" },
+  "keywords": ["handoff", "continuity", "account-switching", "checkpoint", "git"]
+}
